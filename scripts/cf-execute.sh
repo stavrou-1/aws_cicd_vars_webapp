@@ -37,7 +37,7 @@ git clone $FULL_CODECOMMIT_HTTPSURL $LOCAL_REPO_FOLDER
 
 # Then add your files and commit
 # Using the sample project in this Quick Start
-cp -a ./tomatoes/. $LOCAL_REPO_FOLDER
+cp -a ./angular-starter-cicd/. $LOCAL_REPO_FOLDER
 
 cd $LOCAL_REPO_FOLDER
 git add .
